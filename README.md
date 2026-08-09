@@ -33,12 +33,38 @@ MA student in **Immersive Experience & Game Design** at the School of Design, Ce
 
 > 更多作品（The Fallen、《死寂》三维分镜、虚拟云端展览、无人驾驶内饰等）见 [ruixiaozhang.com](https://ruixiaozhang.com) → More on the portfolio site.
 
-## 开源 · Open Source
+## 仓库分类 · Repository Collections
 
-- [**DigitalFutures-Workshop-Pedestrian-Activity-Prediction**](https://github.com/Shawn200212/DigitalFutures-Workshop-Pedestrian-Activity-Prediction) — 街景部分标注 → GraphSAGE 全网行人活力预测（城市更新诊断框架，Team The Capture）
-- [**OpenCV-Face-Recognition-Training**](https://github.com/Shawn200212/OpenCV-Face-Recognition-Training) — OpenCV 视觉特效练习 + Haar cascade / LBPH 人脸识别训练管线（Python）
-- [**ClaudeEssaySkill**](https://github.com/Shawn200212/ClaudeEssaySkill) — 面向 ACM CHI 的写作指导与校准文本核验工具
+> 点击分类标题可按 Topic 筛选仓库；标记 🔒 的项目目前保持 Private，公开后链接将自动可访问。  
+> Select a category to filter repositories by Topic. 🔒 repositories are currently private.
 
+### [Researchs](https://github.com/search?q=user%3AShawn200212+topic%3Aresearchs&type=repositories)
+
+1. [**AIDirector**](https://github.com/Shawn200212/AIDirector) 🔒
+2. [**Author-Constrained-AINPC**](https://github.com/Shawn200212/Author-Constrained-AINPC) 🔒
+
+### [Studys](https://github.com/search?q=user%3AShawn200212+topic%3Astudys&type=repositories)
+
+1. [**gpt-from-scratch**](https://github.com/Shawn200212/gpt-from-scratch)
+2. [**OpenCV-Face-Recognition-Training**](https://github.com/Shawn200212/OpenCV-Face-Recognition-Training)
+
+### [Workshops](https://github.com/search?q=user%3AShawn200212+topic%3Aworkshops&type=repositories)
+
+1. [**DigitalFutures-Workshop-Pedestrian-Activity-Prediction**](https://github.com/Shawn200212/DigitalFutures-Workshop-Pedestrian-Activity-Prediction)
+
+### [Skills](https://github.com/search?q=user%3AShawn200212+topic%3Askills&type=repositories)
+
+1. [**ClaudeEssaySkill-core**](https://github.com/Shawn200212/ClaudeEssaySkill-core) 🔒
+2. [**ClaudeEssaySkill**](https://github.com/Shawn200212/ClaudeEssaySkill)
+3. [**CodexEssaySkill-core**](https://github.com/Shawn200212/CodexEssaySkill-core) 🔒
+4. [**CodexEssaySkill**](https://github.com/Shawn200212/CodexEssaySkill)
+5. [**AdversarialDefenseSkill**](https://github.com/Shawn200212/AdversarialDefenseSkill)
+6. [**AdversarialDefenseSkill-core**](https://github.com/Shawn200212/AdversarialDefenseSkill-core) 🔒
+
+### [Self](https://github.com/search?q=user%3AShawn200212+topic%3Aself&type=repositories)
+
+1. [**portfolio**](https://github.com/Shawn200212/portfolio) 🔒
+2. [**Shawn200212**](https://github.com/Shawn200212/Shawn200212)
 ## 经历 · Experience
 
 | 时间 | 单位 | 角色 |
