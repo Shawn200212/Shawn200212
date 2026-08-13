@@ -38,39 +38,16 @@ More work is available at [ruixiaozhang.com](https://ruixiaozhang.com/index_EN.h
 
 ## Repository collections
 
-Private repositories are marked 🔒.
+Private repositories are marked 🔒. GitHub's **Type** menu cannot be extended with custom
+categories. Use these Topic links instead; each opens a live, account-scoped repository index.
 
-### [Research](https://github.com/search?q=user%3AShawn200212+topic%3Aresearchs&type=repositories)
-
-1. [**AIDirector**](https://github.com/Shawn200212/AIDirector) 🔒
-2. [**Author-Constrained-AINPC**](https://github.com/Shawn200212/Author-Constrained-AINPC) 🔒
-
-### [Studies](https://github.com/search?q=user%3AShawn200212+topic%3Astudys&type=repositories)
-
-1. [**gpt-from-scratch**](https://github.com/Shawn200212/gpt-from-scratch)
-2. [**OpenCV-Face-Recognition-Training**](https://github.com/Shawn200212/OpenCV-Face-Recognition-Training)
-
-### [Workshops](https://github.com/search?q=user%3AShawn200212+topic%3Aworkshops&type=repositories)
-
-1. [**DigitalFutures-Workshop-Pedestrian-Activity-Prediction**](https://github.com/Shawn200212/DigitalFutures-Workshop-Pedestrian-Activity-Prediction)
-
-### [Skills](https://github.com/search?q=user%3AShawn200212+topic%3Askills&type=repositories)
-
-1. [**ClaudeEssaySkill-core**](https://github.com/Shawn200212/ClaudeEssaySkill-core) 🔒
-2. [**ClaudeEssaySkill**](https://github.com/Shawn200212/ClaudeEssaySkill)
-3. [**CodexEssaySkill-core**](https://github.com/Shawn200212/CodexEssaySkill-core) 🔒
-4. [**CodexEssaySkill**](https://github.com/Shawn200212/CodexEssaySkill)
-5. [**AdversarialDefenseSkill**](https://github.com/Shawn200212/AdversarialDefenseSkill)
-6. [**AdversarialDefenseSkill-core**](https://github.com/Shawn200212/AdversarialDefenseSkill-core) 🔒
-7. [**humanizer_claude**](https://github.com/Shawn200212/humanizer_claude)
-8. [**humanizer_claude-core**](https://github.com/Shawn200212/humanizer_claude-core) 🔒
-9. [**humanizer_codex**](https://github.com/Shawn200212/humanizer_codex)
-10. [**humanizer_codex-core**](https://github.com/Shawn200212/humanizer_codex-core) 🔒
-
-### [Self](https://github.com/search?q=user%3AShawn200212+topic%3Aself&type=repositories)
-
-1. [**portfolio**](https://github.com/Shawn200212/portfolio) 🔒
-2. [**Shawn200212**](https://github.com/Shawn200212/Shawn200212)
+| Collection | Quick index | Repositories |
+|---|---|---|
+| Research | [researchs](https://github.com/search?q=user%3AShawn200212+topic%3Aresearchs&type=repositories) | [AIDirector](https://github.com/Shawn200212/AIDirector) 🔒 · [Author-Constrained-AINPC](https://github.com/Shawn200212/Author-Constrained-AINPC) 🔒 |
+| Workshops | [workshops](https://github.com/search?q=user%3AShawn200212+topic%3Aworkshops&type=repositories) | [DigitalFutures-Workshop-Pedestrian-Activity-Prediction](https://github.com/Shawn200212/DigitalFutures-Workshop-Pedestrian-Activity-Prediction) |
+| Studies | [studys](https://github.com/search?q=user%3AShawn200212+topic%3Astudys&type=repositories) | [gpt-from-scratch](https://github.com/Shawn200212/gpt-from-scratch) · [OpenCV-Face-Recognition-Training](https://github.com/Shawn200212/OpenCV-Face-Recognition-Training) |
+| Self | [self](https://github.com/search?q=user%3AShawn200212+topic%3Aself&type=repositories) | [portfolio](https://github.com/Shawn200212/portfolio) 🔒 · [Shawn200212](https://github.com/Shawn200212/Shawn200212) |
+| Codex Skills | [codex-skill](https://github.com/search?q=user%3AShawn200212+topic%3Acodex-skill&type=repositories) | [CodexEssaySkill](https://github.com/Shawn200212/CodexEssaySkill) · [CodexEssaySkill-core](https://github.com/Shawn200212/CodexEssaySkill-core) 🔒 · [AdversarialDefenseSkill](https://github.com/Shawn200212/AdversarialDefenseSkill) · [AdversarialDefenseSkill-core](https://github.com/Shawn200212/AdversarialDefenseSkill-core) 🔒 · [humanizer_codex](https://github.com/Shawn200212/humanizer_codex) · [humanizer_codex-core](https://github.com/Shawn200212/humanizer_codex-core) 🔒 |
 
 ## Experience
 

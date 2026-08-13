@@ -37,34 +37,16 @@
 
 ## 仓库分类
 
-🔒 表示当前为私有仓库。
+🔒 表示当前为私有仓库。GitHub 的 **Type** 菜单不能扩展为自定义分类；请使用下方 Topic 快捷链接，
+每个链接都会打开本账户对应分类的实时仓库索引。
 
-### 研究项目
-
-1. [**AIDirector**](https://github.com/Shawn200212/AIDirector) 🔒
-2. [**Author-Constrained-AINPC**](https://github.com/Shawn200212/Author-Constrained-AINPC) 🔒
-
-### 学习项目
-
-1. [**gpt-from-scratch**](https://github.com/Shawn200212/gpt-from-scratch)
-2. [**OpenCV-Face-Recognition-Training**](https://github.com/Shawn200212/OpenCV-Face-Recognition-Training)
-
-### 工作营
-
-1. [**DigitalFutures-Workshop-Pedestrian-Activity-Prediction**](https://github.com/Shawn200212/DigitalFutures-Workshop-Pedestrian-Activity-Prediction)
-
-### Skills
-
-1. [**ClaudeEssaySkill**](https://github.com/Shawn200212/ClaudeEssaySkill) 与私有 core
-2. [**CodexEssaySkill**](https://github.com/Shawn200212/CodexEssaySkill) 与私有 core
-3. [**AdversarialDefenseSkill**](https://github.com/Shawn200212/AdversarialDefenseSkill) 与私有 core
-4. [**humanizer_claude**](https://github.com/Shawn200212/humanizer_claude) 与私有 core
-5. [**humanizer_codex**](https://github.com/Shawn200212/humanizer_codex) 与私有 core
-
-### 个人
-
-1. [**portfolio**](https://github.com/Shawn200212/portfolio) 🔒
-2. [**Shawn200212**](https://github.com/Shawn200212/Shawn200212)
+| 分类 | 快速索引 | 仓库 |
+|---|---|---|
+| 研究 | [researchs](https://github.com/search?q=user%3AShawn200212+topic%3Aresearchs&type=repositories) | [AIDirector](https://github.com/Shawn200212/AIDirector) 🔒 · [Author-Constrained-AINPC](https://github.com/Shawn200212/Author-Constrained-AINPC) 🔒 |
+| 工作营 | [workshops](https://github.com/search?q=user%3AShawn200212+topic%3Aworkshops&type=repositories) | [DigitalFutures-Workshop-Pedestrian-Activity-Prediction](https://github.com/Shawn200212/DigitalFutures-Workshop-Pedestrian-Activity-Prediction) |
+| 学习 | [studys](https://github.com/search?q=user%3AShawn200212+topic%3Astudys&type=repositories) | [gpt-from-scratch](https://github.com/Shawn200212/gpt-from-scratch) · [OpenCV-Face-Recognition-Training](https://github.com/Shawn200212/OpenCV-Face-Recognition-Training) |
+| 个人 | [self](https://github.com/search?q=user%3AShawn200212+topic%3Aself&type=repositories) | [portfolio](https://github.com/Shawn200212/portfolio) 🔒 · [Shawn200212](https://github.com/Shawn200212/Shawn200212) |
+| Codex Skills | [codex-skill](https://github.com/search?q=user%3AShawn200212+topic%3Acodex-skill&type=repositories) | [CodexEssaySkill](https://github.com/Shawn200212/CodexEssaySkill) · [CodexEssaySkill-core](https://github.com/Shawn200212/CodexEssaySkill-core) 🔒 · [AdversarialDefenseSkill](https://github.com/Shawn200212/AdversarialDefenseSkill) · [AdversarialDefenseSkill-core](https://github.com/Shawn200212/AdversarialDefenseSkill-core) 🔒 · [humanizer_codex](https://github.com/Shawn200212/humanizer_codex) · [humanizer_codex-core](https://github.com/Shawn200212/humanizer_codex-core) 🔒 |
 
 ## 经历
 
