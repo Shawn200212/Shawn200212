@@ -43,7 +43,7 @@ categories. Use these Topic links instead; each opens a live, account-scoped rep
 
 | Collection | Quick index | Repositories |
 |---|---|---|
-| Research | [researchs](https://github.com/search?q=user%3AShawn200212+topic%3Aresearchs&type=repositories) | [AIDirector](https://github.com/Shawn200212/AIDirector) 🔒 · [Author-Constrained-AINPC](https://github.com/Shawn200212/Author-Constrained-AINPC) 🔒 |
+| Research | [researchs](https://github.com/search?q=user%3AShawn200212+topic%3Aresearchs&type=repositories) | [World-Chronicle](https://github.com/Shawn200212/World-Chronicle) 🔒 · [Author-Constrained-AINPC](https://github.com/Shawn200212/Author-Constrained-AINPC) 🔒 |
 | Workshops | [workshops](https://github.com/search?q=user%3AShawn200212+topic%3Aworkshops&type=repositories) | [DigitalFutures-Workshop-Pedestrian-Activity-Prediction](https://github.com/Shawn200212/DigitalFutures-Workshop-Pedestrian-Activity-Prediction) |
 | Studies | [studys](https://github.com/search?q=user%3AShawn200212+topic%3Astudys&type=repositories) | [gpt-from-scratch](https://github.com/Shawn200212/gpt-from-scratch) · [OpenCV-Face-Recognition-Training](https://github.com/Shawn200212/OpenCV-Face-Recognition-Training) |
 | Self | [self](https://github.com/search?q=user%3AShawn200212+topic%3Aself&type=repositories) | [portfolio](https://github.com/Shawn200212/portfolio) 🔒 · [Shawn200212](https://github.com/Shawn200212/Shawn200212) |

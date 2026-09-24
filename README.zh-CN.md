@@ -42,7 +42,7 @@
 
 | 分类 | 快速索引 | 仓库 |
 |---|---|---|
-| 研究 | [researchs](https://github.com/search?q=user%3AShawn200212+topic%3Aresearchs&type=repositories) | [AIDirector](https://github.com/Shawn200212/AIDirector) 🔒 · [Author-Constrained-AINPC](https://github.com/Shawn200212/Author-Constrained-AINPC) 🔒 |
+| 研究 | [researchs](https://github.com/search?q=user%3AShawn200212+topic%3Aresearchs&type=repositories) | [World-Chronicle](https://github.com/Shawn200212/World-Chronicle) 🔒 · [Author-Constrained-AINPC](https://github.com/Shawn200212/Author-Constrained-AINPC) 🔒 |
 | 工作营 | [workshops](https://github.com/search?q=user%3AShawn200212+topic%3Aworkshops&type=repositories) | [DigitalFutures-Workshop-Pedestrian-Activity-Prediction](https://github.com/Shawn200212/DigitalFutures-Workshop-Pedestrian-Activity-Prediction) |
 | 学习 | [studys](https://github.com/search?q=user%3AShawn200212+topic%3Astudys&type=repositories) | [gpt-from-scratch](https://github.com/Shawn200212/gpt-from-scratch) · [OpenCV-Face-Recognition-Training](https://github.com/Shawn200212/OpenCV-Face-Recognition-Training) |
 | 个人 | [self](https://github.com/search?q=user%3AShawn200212+topic%3Aself&type=repositories) | [portfolio](https://github.com/Shawn200212/portfolio) 🔒 · [Shawn200212](https://github.com/Shawn200212/Shawn200212) |
