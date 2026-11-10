@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# ZHANG RUIXIAO
+# YUISIU ZHANG
 
 **Digital Media Art · Immersive Experience & Game Design**
 
@@ -18,10 +18,12 @@
 
 ## About
 
-MA student in **Immersive Experience & Game Design** at the School of Design, Central Academy of
-Fine Arts (CAFA), Beijing (2024–2027); BFA in Digital Media Art at CAFA (2020–2024, 86.32/100, top 5%,
-distinguished graduation project). I use game engines as my primary creative medium, working across
-indie games, XR development, realtime visuals, embodied AI, and urban research. Current focus:
+I am a master's student in Design at the Central Academy of Fine Arts (CAFA), Beijing (2024–2027).
+My research direction is **Immersive Experience and Game Design**.
+I received a Bachelor of Fine Arts in Digital Media Arts from CAFA in 2024.
+My graduation project received Second Prize in CAFA's Outstanding Graduation Project awards.
+
+I use game engines for indie games, extended reality (XR), real-time visuals, embodied artificial intelligence (AI), and urban research. Current focus:
 **3D/XR game development and reinforcement learning in games**.
 
 <a id="featured-work--精选作品"></a>
@@ -67,10 +69,9 @@ categories. Use these Topic links instead; each opens a live, account-scoped rep
 
 | Period | Organization | Role |
 |---|---|---|
-| 2026.04–2026.06 | ROOMs Studio, Beijing | AI Artist intern: UE5 and MetaHuman CG for LLM training; Beeble-assisted AIGC post-production |
-| 2025.07–present | Future Laboratory, Tsinghua University · Low-Carbon Material Integration | Media-art intern |
-| 2024.11–2025.02 | Taichi Graphics · Meshy | 3D-art intern: Blender/Maya processing for the Meshy 4.0 model dataset |
-| 2023.07–2023.10 | Hero Entertainment · ATG | Game-system design intern: throwable systems for a battle-royale project and UE5 debugging |
+| 2026.05–2026.06 | ROOMs Studio, Beijing | AI Artist: produced computer-generated assets with Unreal Engine and MetaHuman; processed AI-generated visuals in Beeble |
+| 2024.11–2025.02 | Taichi Graphics · Meshy | 3D Art Intern: processed model datasets for Meshy with Blender and Maya |
+| 2023.07–2023.08 | Hero Games, Beijing | Game Systems Design Intern: designed and implemented a throwable-item system for a battle royale project in Unreal Engine |
 | 2026.04–2026.05 | CAFA, Integrated UE Game Design | Course instructor for UE game demos, layout, and assessment |
 
 <a id="skills--技能"></a>
